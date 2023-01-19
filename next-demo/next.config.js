@@ -6,7 +6,7 @@ module.exports = {
       serverUrl: "http://localhost:3000/api",
     },
     workflows: {
-      checkout: "MyCheckout2",
+      checkout: "Demo-workflow",
 
     }
   },
